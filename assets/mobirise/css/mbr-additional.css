@@ -759,6 +759,68 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rUGEYBwILx {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-rUGEYBwILx .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  border: none !important;
+}
+.cid-rUGEYBwILx .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-rUGEYBwILx .btn-social + .btn {
+  margin-left: .1rem;
+}
+.cid-rUGEYBwILx [class^="socicon-"]:before,
+.cid-rUGEYBwILx [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-rUGEYBwILx .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-rUGudPdboh {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -887,4 +949,45 @@ section.lazy-placeholder:after {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+}
+.cid-rUGG6DXHn9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rUGG6DXHn9 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rUGGgGVRFp {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rUGGgGVRFp .counter-container {
+  color: #767676;
+}
+.cid-rUGGgGVRFp .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rUGGgGVRFp .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rUGGgGVRFp .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
 }
