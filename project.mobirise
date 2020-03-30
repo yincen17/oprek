@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Oprek MI A1, Oprek MI A2 ,Oprek Mi A3 , Root MI A1  , Root Mi A2 , Root MI A3  , Ubl MI A1 , Ubl MI A2 , Ubl MI A3 , Flash MI A1 ,Flash MI A2 , Flash MI A3",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -235,7 +235,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Tutorial  Mi A1 , Root MI A1 , Ubl Mi A1 , Pasang Twrp MI A1 , Pasang Gcam MI A1 ,",
         "title": "Tissot",
         "order": 3
       },
@@ -336,7 +336,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Tutorial  Mi A3 , Root MI A3 , Ubl Mi A3 , Pasang Twrp MI A3 , Pasang Gcam MI A3 ,",
         "title": "Laurel",
         "order": 2
       },
@@ -437,7 +437,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Tutorial  Mi A2 , Root MI A2 , Ubl Mi A2 , Pasang Twrp MI A2 , Pasang Gcam MI A2 ,",
         "title": "Jasmine",
         "order": 1
       },
